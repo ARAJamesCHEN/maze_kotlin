@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">mz-kotlin</string>
+
+    <string name="button_reset_name">RESET</string>
+    <string name="button_pause_name">PAUSE</string>
+    <string name="button_save_name">SAVE TO FILE</string>
+    <string name="button_help_name">HELP</string>
+    <string name="button_more_name">+</string>
+    <string name="button_new_name">LOAD FROM FILE</string>
+
+
+    <string name="text_mvcount_name">Move Count:</string>
+
+    <string name="level_prompt">Choose a level</string>
+    <string-array name="level_arrays" >
+        <item>Level-1</item>
+        <item>Level-2</item>
+        <item>Level-3</item>
+        <item>Level-4</item>
+        <item>Level-5</item>
+        <item>Level-6</item>
+        <item>Level-7</item>
+        <item>Level-8</item>
+        <item>Level-9</item>
+        <item>Level-10</item>
+    </string-array>
+    <string name="WALL_TYPE_ABOVE">ABOVE</string>
+    <string name="WALL_TYPE_LEFT">LEFT</string>
+
+    <string name="ROLE_TYPE_THESEUS">THESEUS</string>
+    <string name="ROLE_TYPE_MINOTAUR">MINOTAUR</string>
+</resources>

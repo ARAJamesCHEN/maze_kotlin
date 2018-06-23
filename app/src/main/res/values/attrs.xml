@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MapView">
+        <!-- require List<Point> bind to MapView to presentation.-->
+        <attr name="itemsWallLeftStr" format="string"/>
+
+        <!-- require List<Point> bind to MapView to presentation.-->
+        <attr name="itemsWallAboveStr" format="string" />
+
+        <attr name="wallSquareStr" format="string" />
+
+        <attr name="thePointStr" format="string" />
+
+        <attr name="minPointStr" format="string" />
+
+        <attr name="heightStr" format="string" />
+
+    </declare-styleable>
+
+    <declare-styleable name="RoleView">
+
+        <attr name="roleStr" format="string" />
+
+        <attr name="pointStr" format="string" />
+
+    </declare-styleable>
+
+
+</resources>
